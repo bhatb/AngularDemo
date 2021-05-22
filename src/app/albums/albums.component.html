@@ -1,0 +1,10 @@
+<h1>Albums</h1>
+
+<ul>
+  <li *ngFor="let album of albumsList$">
+      
+    <a routerLink="#">{{ album.title }}</a>
+
+    <p>ID: {{ album.id }}, User Id :{{ album.userId }}</p>
+  </li>
+</ul>
