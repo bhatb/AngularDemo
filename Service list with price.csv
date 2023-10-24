@@ -1,0 +1,430 @@
+"systemid","servicecode","servicename","maincategory","subcategory","currentprice"
+164,53253,"Marsupialisation of cyst","Procedure","Oral Surgery",1200.0
+196,53295,"Tooth-coloured restoration – veneer – indirect","Procedure","Restorative Services",1300.0
+269,53339,"Invisalign aligners -One jaw-Longer than 4 months","Procedure","Orthodontics",36000.0
+274,53333,"Hollywood Smile-VIP","Procedure","Prostho(H-smile)",30000.0
+276,53332,"Hollywood Smile-3D","Procedure","Prostho(H-smile)",25000.0
+310,53407,"Cold Iron/ كي بارد","Procedure","Derma",500.0
+282,53329,"Hollywood Smile -16 Teeth","Procedure","Prostho(H-smile)",13646.0
+286,53335,"Follow up of Dental orthodontics(Diamond/self ligating)per visit","Procedure","Orthodontics",1000.0
+300,53403,"Laser","Procedure","Prosthodontics",3000.0
+482,53491,"جلسه ميثو هير","Procedure","Derma",700.0
+144,53229,"Bleaching, external – per tooth","Procedure","Preventive, Prophylactic and Bleaching Services",800.0
+146,53228,"Bleaching, internal – per tooth","Procedure","Preventive, Prophylactic and Bleaching Services",800.0
+152,53296,"Crown – metallic – with tooth preparation – preformed","Procedure","Restorative Services",1300.0
+155,53233,"Fissure and/or tooth surface sealing – per tooth","Procedure","Preventive, Prophylactic and Bleaching Services",200.0
+161,53246,"Maxillary sinus augmentation – lateral wall approach – per sinus","Procedure","Periodontics",8000.0
+168,53269,"Metallic restoration   two surfaces   direct","Procedure","Restorative Services",500.0
+500,53500,"فيلير بولينيرم","Procedure","Derma",1600.0
+172,53267,"Obturation of resorption defect or perforation (non-surgical)","Procedure","Endodontics",4000.0
+178,53232,"Provision of a mouthguard   indirect","Procedure","Preventive, Prophylactic and Bleaching Services",600.0
+183,53247,"Removal of a tooth or part(s) thereof","Procedure","Oral Surgery",200.0
+188,53250,"Skin or mucosal graft","Procedure","Oral Surgery",6000.0
+198,53231,"Topical application of remineralisation and/or cariostatic agents, one treatment","Procedure","Preventive, Prophylactic and Bleaching Services",800.0
+204,53326,"Occlusal splint","Procedure","General Services",1200.0
+207,53323,"Partial banding for inter-maxillary elastics (vertical and/or cross elastics)","Procedure","Orthodontics",500.0
+213,53319,"Partial mandibular denture – resin base","Procedure","Prosthodontics",5000.0
+216,53317,"Complete maxillary and mandibular dentures","Procedure","Prosthodontics",6000.0
+224,53312,"Diagnostic template","Procedure","Prosthodontics",3000.0
+228,53223,"Cone Beam Volumetric Tomography analysis and/or interpretation – maxillary and mandibular dentition (both arches)","Procedure","Diagnostic Services",1200.0
+232,53307,"Prosthesis with metal frame attached to implants   fixed   per arch","Procedure","Prosthodontics",6000.0
+241,53245,"Maxillary sinus augmentation – trans-alveolar technique – per sinus","Procedure","Periodontics",8000.0
+246,53289,"Metallic restoration   five surfaces   indirect","Procedure","Restorative Services",1300.0
+247,53288,"Metallic restoration   four surfaces   indirect","Procedure","Restorative Services",1300.0
+255,53281,"Adhesive restoration   three surfaces   posterior tooth   direct","Procedure","Restorative Services",1300.0
+259,53273,"Adhesive restoration   one surface   anterior tooth   direct","Procedure","Restorative Services",500.0
+265,53384,"Aligner - Two jaws - Longer than 4 months","Procedure","Orthodontics",15000.0
+272,53336,"Clear path /k linealigners-One jaw","Procedure","Orthodontics",12000.0
+318,53411,"Hydra Facial/هيدرا فاشيال","Procedure","Derma",800.0
+306,53405,"Brow Lift Botox/ بوتكس الابتسامه اللثوي","Procedure","Derma",500.0
+330,53416,"Lasmed Thalliium Laser/جلسة لازميد ليزر","Procedure","Derma",700.0
+344,53423,"Ultra Former Back Tightening Session/جلسه الترا فورمار شد الظهر","Procedure","Derma",1500.0
+328,53415,"Laser Cream/كريم ليزر","Procedure","Derma",5.0
+340,53421,"Tosial Filler/فيلر توسيال","Procedure","Derma",1400.0
+350,53426,"ابرة البروفايلو ٢ ملي","Procedure","Derma",1750.0
+358,53430,"ابرة هيلوال واحد ملي","Procedure","Derma",1100.0
+366,53434,"الترافومر مع الوجه والرقبة","Procedure","Derma",2250.0
+374,53438,"التقشير الكيميائ المتطور منطقه واحدة","Procedure","Derma",750.0
+384,53443,"القدمين من غير الرتوش","Procedure","Derma",500.0
+392,53447,"بوتكس الرقبه","Procedure","Derma",2000.0
+400,53451,"بوتكس وجة و رقبه","Procedure","Derma",2500.0
+410,53456,"تشقير الوجه","Procedure","Derma",250.0
+428,53465,"توريد شفايف","Procedure","Derma",400.0
+418,53460,"تقشير الحليب للوجه","Procedure","Derma",500.0
+424,53463,"تقشير سالسيلك للوجه","Procedure","Derma",600.0
+430,53466,"جلسات كامل الجسم بدون ظهر وبدون بطن+3جلسات تقشير حواجب مجانا","Procedure","Derma",999.0
+3014,53726,"جلسة ازالة تاتو","Procedure","Derma",400.0
+3020,53729,"ابرة نضارة","Procedure","Derma",1800.0
+438,53470,"جلسة بلازما بيوتين","Procedure","Derma",900.0
+3016,53727,"جلسة ليزر بدون ضهر وبطن","Procedure","Derma",500.0
+450,53476,"جلسة كربون للوجه","Procedure","Derma",400.0
+3018,53728,"جلسة ليزر مع ضهر وبطن","Procedure","Derma",600.0
+456,53479,"جلسه اذابة دهون اللغلوغ","Procedure","Derma",750.0
+466,53483,"جلسه الهايفو وجه","Procedure","Derma",2000.0
+3022,53730,"تذويب الفيلر","Procedure","Derma",900.0
+442,53472,"جلسة بلازما واحدة","Procedure","Derma",800.0
+3024,53731,"بلازما ماجيلان","Procedure","Derma",2000.0
+464,53482,"جلسه الهايفو منطقه صغيرة","Procedure","Derma",1000.0
+3026,53732,"تنظيف بشرة","Procedure","Derma",300.0
+484,53492,"جلسه ميثو وايت بشرة","Procedure","Derma",500.0
+502,53501,"فيلير جيفوديرم","Procedure","Derma",1800.0
+506,53503,"ليزر ازالة كامل الجسم مع بطن و ظهر","Procedure","Derma",1200.0
+150,53206,"Consultation by referral","Procedure","Diagnostic Services",100.0
+522,53510,"واحد ملي فيلر الكسين","Procedure","Derma",1200.0
+532,53513,"واحد ملي فيلر جوفيدر م","Procedure","Derma",1200.0
+538,53516,"واحد ملي فيلر نيوفيا","Procedure","Derma",1200.0
+672,53590,"Cemention","Procedure","Periodontics",150.0
+512,53505,"ليزر ازاله الشارب او الذقن","Procedure","Derma",150.0
+514,53506,"ليزر الوجه","Procedure","Derma",250.0
+540,53561,"Free Gingival Garaft","Procedure","Miscellaneous",2000.0
+548,53565,"Crown Lengthening Procedure","Procedure","Periodontics",1500.0
+562,53574,"Alveoloplasty","Procedure","Periodontics",1500.0
+632,53589,"Remaining Root Extraction","Procedure","General Services",300.0
+572,53577,"Rich Split","Procedure","Periodontics",4000.0
+578,53579,"Esthetic Crown Lantining Procedure","Procedure","Periodontics",2000.0
+542,53562,"Surgical Extraction","Procedure","Periodontics",2000.0
+552,53568,"Free Gingival Graft","Procedure","Periodontics",2000.0
+554,53569,"Connective Tissue Graft","Procedure","Periodontics",2000.0
+566,53576,"Chronally Reposition Flap","Procedure","Periodontics",2000.0
+580,53580,"Implant Uncovering","Procedure","Periodontics",500.0
+222,53216,"Pulp testing   per appointment","Procedure","Diagnostic Services",100.0
+674,53591,"Metal braket","Procedure","Procedure",1500.0
+680,53594,"Invisible ortho","Procedure","Procedure",10000.0
+756,53606,"E-max Crownسن الزركون ايماكس","Procedure","General Services",1600.0
+546,53564,"Implant Placement","Procedure","Periodontics",3000.0
+160,53240,"Guided tissue regeneration – membrane removal","Procedure","Periodontics",1200.0
+570,53572,"External Sinus Left","Procedure","Periodontics",4000.0
+626,53586,"Composite Filling","Procedure","General Services",500.0
+718,53596,"Root Canal Treatment(Interior)","Procedure","Endodontics",500.0
+230,53310,"Full crown attached to osseointegrated implant   veneered   indirect","Procedure","Prosthodontics",5000.0
+217,53316,"Complete mandibular denture","Procedure","Prosthodontics",3000.0
+628,53587,"Normal Extraction","Procedure","General Services",300.0
+760,53607,"Emax Lumineerسن لومنير ايماكس","Procedure","General Services",1600.0
+744,53609,"Advanced Porcelain Crown","Procedure","General Services",1200.0
+752,53634,"Installation of dental orthodontics ( A/O ) AC تقويم علاجى امريكن ارثو","Procedure","General Services",9000.0
+758,53650,"Installation of dental orthodontics (EUROPE) تقويم علاجى اوروبى","Procedure","General Services",5500.0
+774,53620,"Extraction قلع ضرس عادى","Procedure","General Services",500.0
+784,53627,"Full body Laser ليزر فل بدي","Procedure","General Services",500.0
+486,53493,"جلسه هيدرافيشل","Procedure","Derma",500.0
+788,53672,"Mezzo injections حقن ميزو","Procedure","General Services",500.0
+796,53632,"Bleaching tray(قوالب التبيض)","Procedure","General Services",800.0
+876,53677,"Zircon Crown(1300) تاج زركون","Procedure","General Services",1300.0
+798,53675,"Normal Installation of dental orthodontics تقويم علاجى عادى","Procedure","General Services",4500.0
+814,53646,"Calculus Removal(تنظيف الاسنان من الجير)","Procedure","General Services",300.0
+498,53499,"فيلر الرادييس","Procedure","Derma",2500.0
+778,53623,"Extraction for milk toothقلع سن امامى عادى","Procedure","General Services",300.0
+830,53614,"Other اخرى","Procedure","General Services",2000.0
+906,53647,"Remove braces فك تقويم","Procedure","General Services",500.0
+750,53619,"Home whitining without tray ( zoom ) تبيض الاسنان منزلى زووم Zoom  بدون قوالب","Procedure","General Services",1400.0
+844,53622,"Panorama X-ray (صورة آشعة بانوراما-(200","Procedure","General Services",200.0
+848,53671,"Deciduous Extraction(قلع سن لبنى)","Procedure","General Services",100.0
+852,53611,"Endodontics قلع جذور","Procedure","General Services",700.0
+864,53662,"Tooth Building بناء سن","Procedure","General Services",500.0
+884,53683,"Smile 18 Teeth(15000) ابتسامة 16 سن","Procedure","General Services",15000.0
+880,53680,"Smile 16 Teeth(6823) ابتسامة 16 سن","Procedure","General Services",6823.0
+584,53582,"Follow Up","Procedure","Periodontics",0.0
+890,53686,"Smile 20 Teeth(18000) ابتسامة 16 سن","Procedure","General Services",18000.0
+898,53636,"pink lips remedy by Laser or injection توريد شفايف ليزر او حقن","Procedure","General Services",500.0
+840,53621,"Panorama X-ray (صورة آشعة بانوراما-(100","Procedure","General Services",100.0
+904,53643,"Post بوست للسن","Procedure","General Services",400.0
+916,53652,"Scaling and Polishing تنظيف الاسنان عادى","Procedure","General Services",200.0
+208,53322,"Active removable appliance   per arch","Procedure","Orthodontics",600.0
+480,53490,"جلسه ميثو نضارة","Procedure","Derma",750.0
+792,53630,"American Dental Implant - Biohorizons(زراعة أمريكية ( بايوهورايزونز ))","Procedure","General Services",5500.0
+952,53694,"Orthodontics Instalment","Procedure","Orthodontics",300.0
+954,53695,"orthodontics retainer(600)","Procedure","Orthodontics",600.0
+278,53331,"Holly wood Smile -20Teeth","Procedure","Prostho(H-smile)",18000.0
+404,53453,"تخريم اذن","Procedure","Derma",200.0
+154,53259,"Direct pulp capping","Procedure","Endodontics",800.0
+406,53454,"تخريم انف","Procedure","Derma",200.0
+194,53249,"Surgical removal of a tooth or tooth fragment requiring both removal of bone and tooth division","Procedure","Oral Surgery",3000.0
+165,53271,"Metallic restoration   four surfaces   direct","Procedure","Restorative Services",700.0
+528,53512,"واحد ملي فيلر بولتيرو","Procedure","Derma",1200.0
+716,53597,"Root Canal Treatment(Intermedial)","Procedure","Endodontics",700.0
+173,53214,"Panoramic radiograph – per exposure","Procedure","Diagnostic Services",300.0
+810,53644,"Home whitining with tray تبيض الاسنان منزلى شامل القوالب","Procedure","General Services",1500.0
+280,53330,"Holly wood Smile -18 Teeth","Procedure","Prostho(H-smile)",16000.0
+156,53257,"Frenectomy","Procedure","Oral Surgery",1200.0
+472,53486,"جلسه ديرمابلاننج","Procedure","Derma",500.0
+197,53220,"Tooth–jaw size prediction analysis","Procedure","Diagnostic Services",500.0
+148,53262,"Complete chemo-mechanical preparation of root canal   one canal","Procedure","Endodontics",1000.0
+149,53222,"Cone Beam Volumetric Tomography analysis and/or interpretation – maxillary or mandibular dentition (single arch)","Procedure","Diagnostic Services",800.0
+147,53230,"Bleaching, home application – per arch","Procedure","Preventive, Prophylactic and Bleaching Services",2000.0
+153,53234,"Desensitising procedure – per appointment","Procedure","Preventive, Prophylactic and Bleaching Services",600.0
+159,53239,"Gingival graft – per tooth, implant or extraction socket","Procedure","Periodontics",1200.0
+158,53237,"Gingivectomy – per tooth","Procedure","Periodontics",1000.0
+166,53268,"Metallic restoration   one surface   direct","Procedure","Restorative Services",400.0
+170,53236,"Non-surgical treatment of peri-implant disease – per implant","Procedure","Periodontics",1200.0
+171,53242,"Osseous graft   block","Procedure","Periodontics",15000.0
+169,53241,"Osseous graft   per tooth or implant","Procedure","Periodontics",4000.0
+176,53238,"Periodontal flap surgery   per tooth","Procedure","Periodontics",1000.0
+175,53218,"Photographic records – extraoral # – per appointment","Procedure","Diagnostic Services",1200.0
+174,53217,"Photographic records – intraoral # – per appointment","Procedure","Diagnostic Services",1200.0
+180,53261,"Pulpotomy","Procedure","Endodontics",800.0
+179,53225,"Recontouring and polishing of pre-existing restoration(s) – per appointment","Procedure","Preventive, Prophylactic and Bleaching Services",200.0
+181,53226,"Removal of calculus – first appointment","Procedure","Preventive, Prophylactic and Bleaching Services",500.0
+182,53227,"Removal of calculus – subsequent appointment","Procedure","Preventive, Prophylactic and Bleaching Services",500.0
+184,53224,"Removal of plaque and/or stain","Procedure","Preventive, Prophylactic and Bleaching Services",500.0
+185,53251,"Removal of tumour, cyst or scar – cutaneous, subcutaneous or in mucous membrane","Procedure","Oral Surgery",1200.0
+191,53256,"Splinting of displaced tooth/teeth   per tooth","Procedure","Oral Surgery",1200.0
+190,53255,"Surgical exposure and attachment of device for orthodontic traction","Procedure","Oral Surgery",1200.0
+189,53254,"Surgical exposure of unerupted tooth – per tooth","Procedure","Oral Surgery",1200.0
+199,53235,"Treatment of acute periodontal infection – per appointment","Procedure","Periodontics",500.0
+193,53248,"Surgical removal of a tooth or tooth fragment requiring removal of bone","Procedure","Oral Surgery",2000.0
+195,53252,"Surgical removal of foreign body","Procedure","Oral Surgery",1200.0
+201,53327,"Pantographic tracing","Procedure","General Services",1200.0
+200,53328,"Splinting and stabilisation – direct – per tooth","Procedure","Miscellaneous",1600.0
+209,53321,"Passive removable appliance   per arch","Procedure","Orthodontics",600.0
+205,53325,"Removal of passive appliance – fixed","Procedure","Orthodontics",500.0
+206,53324,"Repair of passive appliance – fixed","Procedure","Orthodontics",500.0
+214,53318,"Partial maxillary denture – resin base","Procedure","Prosthodontics",5000.0
+212,53320,"Tooth/teeth (partial denture)","Procedure","Prosthodontics",500.0
+221,53314,"Insertion of one-stage endosseous implant – per implant","Procedure","Prosthodontics",6000.0
+218,53315,"Complete maxillary denture","Procedure","Prosthodontics",6000.0
+225,53311,"Full crown attached to osseointegrated implant   metallic   indirect","Procedure","Prosthodontics",5000.0
+226,53302,"Full crown   metallic   indirect","Procedure","Prosthodontics",1300.0
+223,53313,"Surgical implant guide","Procedure","Prosthodontics",5000.0
+229,53309,"Full crown attached to osseointegrated implant   non-metallic   indirect","Procedure","Prosthodontics",5000.0
+227,53301,"Full crown   veneered   indirect","Procedure","Prosthodontics",1300.0
+231,53308,"Prosthesis with metal frame attached to implants   removable   per arch","Procedure","Prosthodontics",6000.0
+233,53306,"Prosthesis with resin base attached to implants   removable   per arch","Procedure","Prosthodontics",6000.0
+235,53304,"Recementing crown or veneer","Procedure","Prosthodontics",200.0
+234,53305,"Removal of implant and/or retention device","Procedure","Prosthodontics",5000.0
+238,53299,"Post   direct","Procedure","Restorative Services",600.0
+239,53294,"Tooth-coloured restoration   five surfaces   indirect","Procedure","Restorative Services",1300.0
+240,53293,"Tooth-coloured restoration   four surfaces   indirect","Procedure","Restorative Services",1300.0
+243,53290,"Tooth-coloured restoration   one surface   indirect","Procedure","Restorative Services",1300.0
+244,53292,"Tooth-coloured restoration   three surfaces   indirect","Procedure","Restorative Services",1300.0
+245,53291,"Tooth-coloured restoration   two surfaces   indirect","Procedure","Restorative Services",1300.0
+248,53285,"Metallic restoration   one surface   indirect","Procedure","Restorative Services",1300.0
+249,53287,"Metallic restoration   three surfaces   indirect","Procedure","Restorative Services",1300.0
+250,53286,"Metallic restoration   two surfaces   indirect","Procedure","Restorative Services",1300.0
+256,53280,"Adhesive restoration   two surfaces   posterior tooth   direct","Procedure","Restorative Services",1300.0
+254,53279,"Adhesive restoration   one surface   posterior tooth   direct","Procedure","Restorative Services",1300.0
+253,53282,"Adhesive restoration   four surfaces   posterior tooth   direct","Procedure","Restorative Services",1300.0
+260,53275,"Adhesive restoration   three surfaces   anterior tooth   direct","Procedure","Restorative Services",700.0
+257,53278,"Adhesive restoration   veneer   anterior tooth   direct","Procedure","Restorative Services",1300.0
+261,53276,"Adhesive restoration   four surfaces   anterior tooth   direct","Procedure","Restorative Services",800.0
+263,53298,"Crown – tooth-coloured – preformed","Procedure","Restorative Services",1300.0
+266,53385,"Invisalign aligners - Two jaws - Longer than 4 months","Procedure","Orthodontics",48000.0
+267,53274,"Adhesive restoration   two surfaces   anterior tooth   direct","Procedure","Restorative Services",14000.0
+271,53337,"clear path /k linealigners-Two jaw","Procedure","Orthodontics",24000.0
+270,53338,"Invisalign aligners -One jaw-4months","Procedure","Orthodontics",18000.0
+268,53401,"Invisalign aligners - Two jaws - 4 months","Procedure","Orthodontics",24000.0
+312,53408,"Dematology Checkup /كشف جلدية عام","Procedure","Derma",100.0
+314,53409,"Dream Package/١٠ جلسات سعرها ٤٠٠٠","Procedure","Derma",4000.0
+316,53410,"Freckle Removal/ازالة النمش","Procedure","Derma",500.0
+320,53412,"HydraFacial with scrub 600/هيدرافيشل مع مقشر","Procedure","Derma",600.0
+308,53406,"Cadilla Filler 1ML/فيلر كاديلا  ١ مللي","Procedure","Derma",1800.0
+336,53419,"Remove tattoo with Spectra 500 Gummy Smile Botox/ازاله اثار بالجلد","Procedure","Derma",500.0
+338,53420,"Scarlet Intracell RF/جلسة سكارليت","Procedure","Derma",1400.0
+334,53418,"Regenera Session/جلسة ريجينيرا","Procedure","Derma",7000.0
+324,53414,"Hydro Session/جلسة الهايدرو","Procedure","Derma",1500.0
+346,53424,"Ultraformer face/الترافورمر  وجه","Procedure","Derma",1500.0
+332,53417,"Nose Botox/بوتكس الانف","Procedure","Derma",500.0
+352,53427,"ابرة البروفايلو واحد ملي","Procedure","Derma",900.0
+354,53428,"ابرة المشاهير (البروفايلو)","Procedure","Derma",2800.0
+348,53425,"Ultraformer neck/الترافورمر رقبه","Procedure","Derma",1500.0
+360,53431,"ازالة زوائد جلدية","Procedure","Derma",500.0
+362,53432,"البلازما شعر أو وجه","Procedure","Derma",700.0
+342,53422,"Ultra form chest tightening session/جلسه الترا فورمار شد الصدر","Procedure","Derma",1500.0
+368,53435,"الترافومر مع الوجه والرقبة جلستين والثالثة مجانا","Procedure","Derma",4500.0
+370,53436,"التقشير البارد بدون كريم","Procedure","Derma",900.0
+372,53437,"التقشير البارد مع كريم","Procedure","Derma",1400.0
+376,53439,"التقشير الكيميائي","Procedure","Derma",600.0
+378,53440,"الذراعين مع الرتوش","Procedure","Derma",500.0
+380,53441,"الذراعين من غير الرتوش","Procedure","Derma",500.0
+356,53429,"ابرة الهيلوال ٢ ملي","Procedure","Derma",2000.0
+386,53444,"الميزو ثارابي","Procedure","Derma",600.0
+388,53445,"بوتكس إفراط التعرق","Procedure","Derma",2000.0
+364,53433,"البلازما فركشنال","Procedure","Derma",850.0
+394,53448,"بوتكس اليورجان 100 وحده","Procedure","Derma",2000.0
+396,53449,"بوتكس اليورجان 50 وحده","Procedure","Derma",1000.0
+402,53452,"بوتكس وجه كامل","Procedure","Derma",2000.0
+382,53442,"القدمين مع الرتوش","Procedure","Derma",500.0
+412,53457,"تشقير حواجب","Procedure","Derma",200.0
+414,53458,"تشقير منطقة","Procedure","Derma",250.0
+390,53446,"بوتكس اعلي وجه","Procedure","Derma",1500.0
+420,53461,"تقشير الحليب منطقه واحدة","Procedure","Derma",500.0
+422,53462,"تقشير الكيميائي المتطور للوجه","Procedure","Derma",750.0
+408,53455,"تخريم شفايف","Procedure","Derma",200.0
+398,53450,"بوتكس رفع الحواجب","Procedure","Derma",700.0
+426,53464,"تقطيع ندبات","Procedure","Derma",600.0
+416,53459,"تقسير بارك اميلان","Procedure","Derma",2000.0
+432,53467,"جلسات كامل الجسم بدون ظهر وبدون بطن+جلسة تقشير حواجب مجانا","Procedure","Derma",370.0
+434,53468,"جلسة بلازما","Procedure","Derma",700.0
+444,53473,"جلسة رتوش","Procedure","Derma",500.0
+440,53471,"جلسة بلازما ذهبية","Procedure","Derma",1200.0
+448,53475,"جلسة كاربوني","Procedure","Derma",700.0
+452,53477,"جلسة واحده مع الرتوش لمنطقة واحده من اختيارك (الابط - البكيني - الوجه)","Procedure","Derma",180.0
+454,53478,"جلستين مع الرتوش لمنطقتين واحده من اختيارك (الابط - البكيني - الوجه)","Procedure","Derma",450.0
+462,53481,"جلسه الهايفو الرقب ة","Procedure","Derma",1700.0
+468,53484,"جلسه الهايفو وجه و رقبه","Procedure","Derma",2500.0
+470,53485,"جلسه تفتيح هالات","Procedure","Derma",700.0
+446,53474,"جلسة فراكشينال ليزر","Procedure","Derma",900.0
+474,53487,"جلسه ديرمابن","Procedure","Derma",300.0
+436,53469,"جلسة بلازما 3","Procedure","Derma",999.0
+478,53489,"جلسه فامبير","Procedure","Derma",700.0
+460,53480,"جلسه الماء الوردي","Procedure","Derma",750.0
+488,53494,"حقن الخلايا الجذعية","Procedure","Derma",800.0
+490,53495,"خدمه حقن الفيلير 1500 ما عدا فيلير الجسم","Procedure","Derma",3000.0
+492,53496,"خيوط 3 دي للنضارة","Procedure","Derma",600.0
+496,53498,"فركشنر المنطقة الواحدة","Procedure","Derma",600.0
+476,53488,"جلسه سكارليت","Procedure","Derma",1400.0
+504,53502,"ليزر اب ط","Procedure","Derma",250.0
+494,53497,"خيوط 6 دي لشد الوجه","Procedure","Derma",700.0
+322,53413,"HydraFacial with scrub 600 HydraFacial with Scrub and Collagen/هيدرافيشل مع مقشر وكولاجين","Procedure","Derma",800.0
+510,53504,"ليزر ازاله الجسم بدون بطن او ظهر","Procedure","Derma",900.0
+516,53507,"ليزر بطن او ظهر","Procedure","Derma",100.0
+520,53509,"ليزر تحديد لحي ة","Procedure","Derma",250.0
+518,53508,"ليزر بكين ي","Procedure","Derma",250.0
+524,53511,"واحد ملي فيلر بكيني","Procedure","Derma",1400.0
+536,53515,"واحد ملي فيلر سكين فيل","Procedure","Derma",900.0
+534,53514,"واحد ملي فيلر ريستالين","Procedure","Derma",1200.0
+544,53563,"Surgical Extraction of Impactive Teeth","Procedure","Periodontics",2500.0
+550,53567,"Guided Bone Regeneration","Procedure","Periodontics",3500.0
+558,53571,"Internal Sinus Left","Procedure","Periodontics",3500.0
+564,53575,"Dry Socket Treatment","Procedure","Periodontics",1000.0
+582,53581,"SRP","Procedure","Periodontics",1000.0
+211,53205,"Consultation   extended (30 minutes or more)","Procedure","Diagnostic Services",200.0
+210,53204,"Consultation","Procedure","Diagnostic Services",100.0
+203,53208,"Written report (not elsewhere included)","Procedure","Diagnostic Services",100.0
+163,53211,"Intraoral radiograph – occlusal, maxillary, mandibular – per exposure","Procedure","Diagnostic Services",150.0
+215,53209,"Letter of referral","Procedure","Diagnostic Services",100.0
+151,53212,"Cone Beam Volumetric Tomography   scan acquisition   per appointment","Procedure","Diagnostic Services",800.0
+766,53660,"Korean Dental Implant - Ossteom","Procedure","General Services",4000.0
+568,53566,"Bone Graft","Procedure","Periodontics",1500.0
+220,53215,"Biopsy of tissue","Procedure","Diagnostic Services",1200.0
+242,53263,"Complete chemo-mechanical preparation of root canal   each additional canal","Procedure","Endodontics",2000.0
+262,53297,"Crown – metallic – minimal tooth preparation – preformed","Procedure","Restorative Services",1000.0
+556,53570,"Osseous Surgery","Procedure","Periodontics",1500.0
+302,53404,"Laser(Single Veneer)","Procedure","Prosthodontics",200.0
+678,53593,"Ceramic braket","Procedure","Procedure",1500.0
+676,53592,"Follow up metal braket","Procedure","Procedure",300.0
+284,53334,"Installation of dental orthodontics(Diamond/self ligating)","Procedure","Orthodontics",8000.0
+186,53264,"Resorbable root canal filling – primary tooth","Procedure","Endodontics",1000.0
+742,53602,"Removal teeth","Procedure","General Services",50.0
+714,53598,"Root Canal Treatment(Posterior)","Procedure","Endodontics",1200.0
+762,53656,"Installation of dental orthodontics (FRENCH) تقويم علاجى فرنسى","Procedure","General Services",5000.0
+764,53608,"Emergency كشف الطوارئ","Procedure","General Services",50.0
+768,53666,"Laser bleaching ليزر تشقير","Procedure","General Services",150.0
+776,53667,"Laser fractional ليزر فراكشنال","Procedure","General Services",500.0
+770,53616,"Esthetic Orthodontics for both Jawsتقويم زينة للفكين بدون الوان","Procedure","General Services",1200.0
+782,53668,"Lumineer سن لومنير","Procedure","General Services",1300.0
+780,53625,"Fiber Post الدعامة الزجاجية","Procedure","General Services",3000.0
+786,53626,"Amalgam Fillings(حشوة املغم)","Procedure","General Services",300.0
+794,53665,"German Dental Implant - Bego(زراعة المانية ( بيجو )(5000","Procedure","General Services",5000.0
+802,53640,"Gum Depigmintationتوريد لثة","Procedure","General Services",3000.0
+806,53679,"Office whiteness تبيض الاسنان ايفر برايت عيادة","Procedure","General Services",800.0
+804,53635,"Bone Graft - Complex(طعم عظمى واسع)","Procedure","General Services",15000.0
+816,53682,"Open abscess فتح خراج","Procedure","General Services",300.0
+808,53639,"Bone Graft - Simple(طعم عظمى بسيط)","Procedure","General Services",2500.0
+812,53642,"Botox injection(حقن بوتكس)","Procedure","General Services",1200.0
+822,53653,"Carbonic laser(ليزر كربوني)","Procedure","General Services",250.0
+828,53612,"Orthodontics monthly visit شد تقويم","Procedure","General Services",400.0
+790,53629,"German Dental Implant - Begoزراعة المانية ( بيجو )","Procedure","General Services",3700.0
+832,53690,"Orthodontics / installign full mouse تثبيت تقويم للفكين","Procedure","General Services",800.0
+838,53615,"P.A X-ray صورة آشعة للقمة الجذرية","Procedure","General Services",50.0
+800,53637,"Gingvectomy تجريف لثة","Procedure","General Services",1000.0
+842,53618,"Panorama X-ray (صورة آشعة بانوراما-(150","Procedure","General Services",150.0
+630,53588,"Scaling & Polishing","Procedure","General Services",200.0
+858,53657,"Soft tissue graft - Simple طعم لثوى و جراحة التجميل بسيط","Procedure","General Services",3500.0
+860,53658,"Surgical Extraction for Impacted Wisdom tooth قلع ضرس العقل مضمور","Procedure","General Services",2000.0
+866,53663,"Treatment of infected tooth علاج سن متعفن","Procedure","General Services",1000.0
+868,53664,"Veneer سن الفنير","Procedure","General Services",1300.0
+870,53673,"Viller injection حقن فيلر","Procedure","General Services",1000.0
+872,53674,"Wisdom Extraction قلع ضرس العقل بدون جراحة","Procedure","General Services",700.0
+874,53676,"Zircon Crown(1200) تاج زركون","Procedure","General Services",1200.0
+886,53684,"Smile 18 Teeth(16000) ابتسامة 16 سن","Procedure","General Services",16000.0
+836,53669,"Cephalometric X-ray(صورة آشعة سيفالوميرك)","Procedure","General Services",300.0
+892,53687,"Color Change for one jaw تغيير اللون للفك الواحد","Procedure","General Services",100.0
+826,53610,"Orthodontics for Diet Patients تقويم الرجيم","Procedure","General Services",1800.0
+894,53688,"Normal Installation of dental orthodontics تقويم عادى أقساط","Procedure","General Services",9000.0
+900,53638,"Plasma injection of hair or face حقن بلازما للشعر او الوجه","Procedure","General Services",500.0
+902,53641,"Porcelain Crown سن البورسلين","Procedure","General Services",600.0
+888,53685,"Smile 20 Teeth(17000) ابتسامة 16 سن","Procedure","General Services",17000.0
+908,53645,"Recementation for Crown تثبيت تاج","Procedure","General Services",200.0
+910,53648,"Root canal treatment علاج عصب سن","Procedure","General Services",500.0
+862,53659,"Surgical Extraction for Wisdom tooth قلع ضرس العقل جراحة","Procedure","General Services",1000.0
+856,53655,"Single Zone Laser ليزر منطقه واحده","Procedure","General Services",150.0
+824,53689,"Orthodontics / installign for one  Jaw تثبيت تقويم للفك","Procedure","General Services",500.0
+258,53277,"Adhesive restoration   five surfaces   anterior tooth   direct","Procedure","Restorative Services",900.0
+252,53283,"Adhesive restoration   five surfaces   posterior tooth   direct","Procedure","Restorative Services",1300.0
+574,53578,"Block Graft","Procedure","Periodontics",10000.0
+854,53654,"CBCT(صورة آشعة ثلاثية الابعاد)","Procedure","General Services",800.0
+834,53661,"Cementaion for one braces(تثبيت يونت او حبة تقويم واحدة)","Procedure","General Services",100.0
+145,53219,"Cephalometric analysis – excluding radiographs","Procedure","Diagnostic Services",500.0
+219,53213,"Cephalometric radiograph – lateral, antero-posterior, postero-anterior or submento-vertex – per exposure","Procedure","Diagnostic Services",500.0
+202,53203,"Comprehensive oral examination","Procedure","Diagnostic Services",100.0
+772,53617,"Esthetic Orthodontics for both Jaws change the color twicee for freeتقويم زينة للفكين مع تغيير اللون مرتين","Procedure","General Services",1400.0
+157,53265,"Exploratory periradicular surgery","Procedure","Endodontics",2000.0
+237,53300,"Full crown   non-metallic   indirect","Procedure","Prosthodontics",1300.0
+162,53210,"Intraoral periapical or bitewing radiograph – per exposure","Procedure","Diagnostic Services",100.0
+167,53270,"Metallic restoration   three surfaces   direct","Procedure","Restorative Services",600.0
+850,53633,"Partial Denture 1-3 teeth جهاز متحرك جزئى من سن الى 3 اسنان","Procedure","General Services",500.0
+896,53628,"Partial Denture جهاز متحرك كامل فك واحد فيتاليوم","Procedure","General Services",5000.0
+177,53243,"Periodontal surgery involving one tooth","Procedure","Periodontics",3000.0
+236,53303,"Post and core for crown   indirect","Procedure","Prosthodontics",3000.0
+878,53678,"Zircon Crown with post فل زركون كامل مع دعامة","Procedure","General Services",2800.0
+192,53221,"Tomographic analysis","Procedure","Diagnostic Services",600.0
+187,53266,"Removal of root filling – per canal","Procedure","Endodontics",3000.0
+914,53651,"Root canal treatment for Molar علاج عصب ضرس","Procedure","General Services",800.0
+912,53649,"Root canal treatment(one visit) علاج عصب جلسة واحدة","Procedure","General Services",1400.0
+882,53681,"Smile 16 Teeth(13000) ابتسامة 16 سن","Procedure","General Services",13000.0
+560,53573,"Socket Graft","Procedure","Periodontics",1500.0
+251,53284,"Adhesive restoration   veneer   posterior tooth   direct","Procedure","Restorative Services",1300.0
+956,53696,"orthodontics retainer(900)","Procedure","Orthodontics",900.0
+958,53697,"jaw expansion device جهاز توسعة الفك","Procedure","Orthodontics",1000.0
+964,53700,"Cleaning Tooth","Procedure","General Services",500.0
+968,53701,"Normal skin cleaning","Procedure","Derma",200.0
+970,53703,"Cleaning with a mesotherapy","Procedure","Derma",500.0
+966,53702,"VIP skin cleaning","Procedure","Derma",300.0
+846,53670,"Cosmetic Fillings(حشوة تجميلية.)","Procedure","General Services",500.0
+1012,53704,"Cosmetic Fillings(حشوة تجميلية.) 2","Procedure","General Services",500.0
+960,53699,"functional orthodontic devices","Procedure","Orthodontics",100.0
+748,53613,"Home whitining without tray GMتبيض الاسنان منزلى عادى مادة بدون القوالب","Procedure","General Services",800.0
+1166,53624,"Panorama X-ray (صورة آشعة بانوراما-(300","Procedure","General Services",300.0
+1054,53631,"Partial Denture(acrylic) جهاز متحرك فك واحد اكريل","Procedure","General Services",3500.0
+1596,53707,"Hydro Facial 250","Procedure","Derma",250.0
+1638,53709,"Botox injection  حقن بوتكس","Procedure","Derma",1200.0
+1640,53710,"Carbonic laser  (ليزر كربوني)","Procedure","Derma",250.0
+1642,53711,"Full body Laser  (خدمات قسم الجلدية)","Procedure","Derma",500.0
+1644,53713,"Laser fractional  (خدمات قسم الجلدية)","Procedure","Derma",500.0
+1646,53712,"Laser bleaching  (خدمات قسم الجلدية)","Procedure","Derma",150.0
+1648,53714,"Mezzo injections  (خدمات قسم الجلدية)","Procedure","Derma",500.0
+1650,53715,"Other  (خدمات قسم الجلدية)","Procedure","Derma",2000.0
+1652,53716,"pink lips remedy by Laser or injection  (توريد شفايف ليزر او حقن )","Procedure","Derma",500.0
+1654,53717,"Plasma injection of hair or face  (حقن بلازما للشعر او الوجه)","Procedure","Derma",500.0
+1656,53708,"Single Zone Laser  (ليزر منطقه واحده)","Procedure","Derma",150.0
+1658,53718,"Filler injection  (حقن فيلر)","Procedure","Derma",1000.0
+1906,53719,"Oral Oxygen Therapy Blue m Gel 15ml","Product","Dental",130.8
+1908,53720,"Oral Oxygen Therapy Blue m Mouthwash 250 ml","Product","Dental",62.95
+1910,53722,"Oral Oxygen Therapy Blue m Oxygen Fluid 500 ml","Product","Dental",168.7
+1912,53723,"Oral Oxygen Therapy Blue m Toothpaste fluoride free 75 ml","Product","Dental",81.0
+1914,53721,"Oral Oxygen Therapy Blue m Oral Foam 50 ml","Product","Dental",58.11
+3684,53733,"Kysense Filler Volume","Procedure","Derma",1900.0
+3686,53734,"Kysense Filler Extreme","Procedure","Derma",1900.0
+3688,53735,"Kysense Filler Define","Procedure","Derma",1900.0
+3690,53757,"عملية تكبير الصدر بحشوات السيلكون","Procedure","Derma",36000.0
+3692,53758,"عملية نحت الفخذين","Procedure","Derma",40000.0
+3694,53755,"عملية التثدي للرجال","Procedure","Derma",18000.0
+3696,53754,"عملية تكبير المؤخرة","Procedure","Derma",40000.0
+3698,53752,"عملية شفط منطقة واحدة مع اعادة حقن المؤخرة","Procedure","Derma",40000.0
+3706,53743,"عملية جراحة الأنف (أولية)","Procedure","Derma",32000.0
+3700,53750,"عملية الاذن الخفاشية","Procedure","Derma",18000.0
+3702,53748,"حقن الوجه بالدهون","Procedure","Derma",16000.0
+3704,53745,"عملية ازالة دهون الوجه","Procedure","Derma",16000.0
+3708,53741,"عملية جراحة الأنف (ثانوية)","Procedure","Derma",46000.0
+3710,53736,"عملية شد الذراعين","Procedure","Derma",40000.0
+3712,53737,"عملية الشد الحزامي","Procedure","Derma",60000.0
+3714,53738,"عملية شد ورفع الثدي","Procedure","Derma",40000.0
+3716,53739,"عملية شد ورفع الثدي مع حشوات السيلكون","Procedure","Derma",50000.0
+3718,53740,"عملية شد البطن وشفط ونحت أسفل الظهر والخواصر مع حقن الارداف كتلة أقل من 30","Procedure","Derma",50000.0
+3720,53742,"عملية شد وتصغير الثدي كتله اقل من 27","Procedure","Derma",44000.0
+3722,53746,"عملية شد الجفون العلوية او السفلية","Procedure","Derma",18000.0
+3724,53747,"عملية شد الوجه والرقبة","Procedure","Derma",60000.0
+3726,53749,"عملية شد ترهلات الفخذين","Procedure","Derma",50000.0
+3728,53751,"عملية شفط الدهون لمنطقة واحدة","Procedure","Derma",24000.0
+3730,53753,"عملية شفط اللغلوغ","Procedure","Derma",18000.0
+3732,53756,"عملية نحت الذراعين","Procedure","Derma",38000.0
+3734,53744,"عملية شد البطن","Procedure","Derma",38000.0
